@@ -13,7 +13,11 @@
 <img align="center" alt="Linux Desktop" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
 <img align="center" alt="Shell_Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img align="center" alt="Shell_Script" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</div><br/>
+
+Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. Calmo e preparado para morrer, se for preciso, mas nunca se curva diante do perigo.
+
+
 
 
 
