@@ -15,7 +15,12 @@
 
 Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. Calmo e preparado para morrer, se for preciso, mas nunca se curva diante do perigo.
 
-
+### Estudando 
+- Análise e Desenvolvimento 
+- Shell Script | Bash 
+- MySql Workbench
+- Linux
+- Inglẽs
 
 
 
