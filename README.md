@@ -20,7 +20,7 @@ Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. C
 - Shell Script | Bash 
 - MySql Workbench
 - Linux
-- Inglẽs
+- Inglês
 
 
 
