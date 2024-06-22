@@ -1,6 +1,7 @@
 ### Olá! Sou o Henrique Rocha
+Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. Calmo e preparado para morrer, se for preciso, mas nunca se curva diante do perigo.
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shakalinuxx) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Henrique.R.pereira) 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShakaLinux)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-rocha-340708269/)
 
@@ -13,7 +14,7 @@
 <img align="center" alt="Shell_Script" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. Calmo e preparado para morrer, se for preciso, mas nunca se curva diante do perigo.
+
 
 ### Estudando 
 - Análise e Desenvolvimento 
