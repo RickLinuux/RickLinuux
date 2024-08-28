@@ -1,5 +1,7 @@
 # Olá! Sou Henrique Rocha
 
+Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. Calmo e preparado para morrer, se for preciso, mas nunca se curva diante do perigo.
+
 Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Com experiência prática em diversas tecnologias e uma sólida base de conhecimento, estou aqui para compartilhar meus projetos e contribuir com a comunidade.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Henrique.R.pereira) 
@@ -17,7 +19,7 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Com
 ## Gráfico de Linguagens Usadas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickLinuux&layout=compact&theme=dark" alt="Top Languages">
 </a>
 
 ## Atualmente Estudando
@@ -32,10 +34,6 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Com
 - [Projeto 1](link-do-projeto-1): Descrição breve do projeto, principais tecnologias utilizadas e objetivos.
 - [Projeto 2](link-do-projeto-2): Descrição breve do projeto, principais tecnologias utilizadas e objetivos.
 - [Projeto 3](link-do-projeto-3): Descrição breve do projeto, principais tecnologias utilizadas e objetivos.
-
-## Como Colaborar
-
-Se você estiver interessado em colaborar ou discutir projetos, sinta-se à vontade para me contatar através das minhas redes sociais ou pelo [e-mail](mailto:seu-email@example.com). Estou sempre aberto a novas oportunidades e colaborações.
 
 ## Licença
 
