@@ -29,15 +29,6 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Com
 - **MySQL Workbench**
 - **Linux**
 
-## Projetos Recentes
-
-- [Projeto 1](link-do-projeto-1): Descrição breve do projeto, principais tecnologias utilizadas e objetivos.
-- [Projeto 2](link-do-projeto-2): Descrição breve do projeto, principais tecnologias utilizadas e objetivos.
-- [Projeto 3](link-do-projeto-3): Descrição breve do projeto, principais tecnologias utilizadas e objetivos.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](link-para-licenca). Veja o arquivo [LICENSE](link-para-arquivo-license) para mais detalhes.
 
 ---
 
