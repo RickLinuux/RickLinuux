@@ -2,7 +2,7 @@
 
 Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. Calmo e preparado para morrer, se for preciso, mas nunca se curva diante do perigo.
 
-Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Com experiência prática em diversas tecnologias e uma sólida base de conhecimento, estou aqui para compartilhar meus projetos e contribuir com a comunidade.
+
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Henrique.R.pereira) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShakaLinux)
