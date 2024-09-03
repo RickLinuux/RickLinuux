@@ -1,8 +1,15 @@
 # Olá! Sou Henrique Rocha
 
-Forjado no fogo das confusões da vida, esfriado pelas decepções que sofreu. Calmo e preparado para morrer, se for preciso, mas nunca se curva diante do perigo.
+## seja bem-vindo ao meu GitHub! 👋
+Meu nome é Henrique Rocha, e sou um apaixonado por tecnologia e desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, com uma sólida base técnica adquirida no SENAI/DF e na Escola Técnica de Planaltina.
 
+Aqui, você encontrará projetos que refletem minhas competências em Java, SQL, Linux, e outras tecnologias que venho dominando ao longo da minha jornada acadêmica e profissional. Meu objetivo é sempre aprender, evoluir e contribuir para o sucesso das organizações com as quais colaboro.
 
+Sinta-se à vontade para explorar meus repositórios, sugerir melhorias e, quem sabe, colaborar em algum projeto. Se você compartilha a paixão por tecnologia e inovação, vamos conversar!
+
+📧 Contato: hrprocha3@outlook.com
+🔗 LinkedIn: Henrique Rocha
+🔗 GitHub: RickLinuux
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Henrique.R.pereira) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShakaLinux)
