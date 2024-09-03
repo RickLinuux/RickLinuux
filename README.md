@@ -1,4 +1,4 @@
-# Olá! Sou Henrique Rocha, seja bem-vindo ao meu GitHub! 👋
+## Olá! Sou Henrique Rocha, seja bem-vindo ao meu GitHub! 👋
 
 Meu nome é Henrique Rocha, e sou um apaixonado por tecnologia e desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, com uma sólida base técnica adquirida no SENAI/DF e na Escola Técnica de Planaltina.
 
