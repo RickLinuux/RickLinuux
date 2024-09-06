@@ -1,6 +1,5 @@
 ## Olá! Sou Henrique Rocha, seja bem-vindo ao meu GitHub! 👋
-
-Sou um apaixonado por tecnologia e desenvolvimento de sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Minha formação inclui uma sólida base técnica adquirida no SENAI/DF e na Escola Técnica de Planaltina.
+Estou me tornando um profissional de tecnologia, pequenos passos para grandes resultados. Atualmente, curso Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas. Minha formação inclui uma sólida base técnica adquirida no SENAI/DF e na Escola Técnica de Planaltina, no curso de informática.
 
 Aqui, você encontrará projetos que refletem minhas competências em Java, SQL, Linux, e outras tecnologias que venho dominando ao longo da minha jornada acadêmica e profissional. Meu objetivo é sempre aprender, evoluir e contribuir para o sucesso das organizações com as quais colaboro.
 
