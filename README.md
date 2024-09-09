@@ -6,9 +6,6 @@ Aqui, você encontrará projetos que refletem minhas competências em Java, SQL,
 Sinta-se à vontade para explorar meus repositórios, sugerir melhorias e, quem sabe, colaborar em algum projeto. Se você compartilha a paixão por tecnologia e inovação, vamos conversar!
 
 - 📧 **Contato:** [hrprocha3@outlook.com](mailto:hrprocha3@outlook.com)  
-- 🔗 **LinkedIn:** [Henrique Rocha](https://www.linkedin.com/in/henrique-r-736313302/)  
-- 🔗 **GitHub:** [RickLinuux](https://github.com/RickLinuux)
-
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Henrique.R.pereira) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShakaLinux)
